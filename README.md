@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]()
+
 # dailyQuoteFunctions
 
 This repo contains everything you need to deploy and get your serverless backend up and running. 
